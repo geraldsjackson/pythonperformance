@@ -8,4 +8,8 @@ Instructions:
 
 The instruction are pretty straightforward:
 
-1. 
+1. Download the code (.py) files into a directory.
+2. Open a terminal/DOS Prompt and navigate to that folder.
+3. Type "python main.py" to execute.
+
+
